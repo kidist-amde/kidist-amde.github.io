@@ -1,44 +1,108 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-	
-	
-	<meta charset="UTF-8">
 	<title>My Personal Bio Page</title>
-	<!-- Add any additional meta tags, stylesheets, or scripts here -->
+	<!-- Add Font Awesome CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-fHtQzrY+8Kj97LPNXgT+cT1jv3qWt9h+tL+PpwyLxtvvczDhRJ8O67x1Umdbd+krYYN0pG/XldEeOBl+oqdLJw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<!-- Add custom CSS -->
 	<style>
 		body {
 			font-family: Arial, sans-serif;
-			background-color: #f2f2f2;
 			margin: 0;
 			padding: 0;
 		}
-		
+
 		header {
 			background-color: #333;
 			color: #fff;
 			padding: 20px;
 			text-align: center;
 		}
-		
+
 		h1 {
-			font-size: 36px;
+			margin: 0;
+		}
+
+		nav {
+			background-color: #ddd;
+			padding: 10px;
+		}
+
+		nav ul {
+			list-style: none;
 			margin: 0;
 			padding: 0;
+			display: flex;
+			justify-content: center;
 		}
-		
-		main {
+
+		nav li {
+			margin: 0 10px;
+		}
+
+		nav a {
+			color: #333;
+			text-decoration: none;
+			font-weight: bold;
+			font-size: 18px;
+			padding: 10px;
+			border-radius: 5px;
+		}
+
+		nav a:hover {
+			background-color: #333;
+			color: #fff;
+		}
+
+		.container {
 			max-width: 800px;
 			margin: 0 auto;
 			padding: 20px;
-			background-color: #fff;
-			box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+			display: flex;
+			flex-direction: column;
+			align-items: center;
 		}
-		
-		p {
-			line-height: 1.5;
-			margin: 0 0 20px 0;
+
+		.bio {
+			margin: 20px 0;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		.bio img {
+			max-width: 200px;
+			border-radius: 50%;
+			margin-bottom: 10px;
+		}
+
+		.contact {
+			margin: 20px 0;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		.social-icons {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			display: flex;
+			justify-content: center;
+		}
+
+		.social-icons li {
+			margin: 0 10px;
+		}
+
+		.social-icons a {
+			display: inline-block;
+			font-size: 24px;
+			color: #333;
+		}
+
+		.social-icons a:hover {
+			color: #666;
 		}
 	</style>
 </head>
@@ -46,108 +110,14 @@
 	<header>
 		<h1>My Personal Bio Page</h1>
 	</header>
-	<main>
-		<h2>About Me</h2>
-		<p> Greetings! My name is Kidist, a recent MSc Data Science graduate from the University of Trento, Italy. 
-I have a solid foundation in programming languages, statistical methods, and machine learning frameworks. I have earned
- two Master's degrees in Machine Intelligence and Data Science, as well as a Bachelor's degree in Computer Science. 
-I am enthusiastic about continuous learning, having pursued various online courses, and  AI events and talks such as
- conferences, workshops, summits, and hackathons to further my expertise in the fields of AI and Data Science.
-			</p><p>
-My research interest lies in Generative AI and multimodal learning (vision and language), specifically in the context of social good.
-My main objective is on promoting positive outcomes, such as explainability,
- fairness, robustness, scalability, privacy, safety, and ethics, to ensure accountability and transparency in AI development.
-</p>
 
-		<h2>Education</h2>
-		<p>B.Sc in Computer Science, University of Gondar, Sep 2013 - Jul 2017</p>
-		<p>M.Sc in Machine intalligence  , African Institute of Mathematical Sciences, Oct 2019 - Dec 2020</p>
-		<p>M.Sc in Data Science, University of Trento, Sep 2020 - Mar 2023</p>
-
-		
-		<h2>Ph.D. Research Interest Area.
-</h2>
-		<p> </p>
-		
-		<h2>Experience</h2>
-		<p>[Your Job Title], [Name of Company], [Employment Dates]</p>
-		<p>[Your Job Responsibilities and Achievements]</p>
-		
-		<h2>Skills</h2>
+	<nav>
 		<ul>
-			<li>[Skill #1]</li>
-			<li>[Skill #2]</li>
-			<li>[Skill #3]</li>
-			<li>[Skill #4]</li>
+			<li><a href="#bio">Bio</a></li>
+			<li><a href="#contact">Contact</a></li>
 		</ul>
-		
-		<h2>Volunteer Activities </h2>
-		
-		
-		
+	</nav>
 
-		
-		<h2>Contacts</h2>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-}
-
-.fa:hover {
-    opacity: 0.7;
-}
-
-
-.fa-twitter {
-  background: #4099FF;
-  color: white;
-}
-
-.fa-envelope {
-  background: #dd4b39;
-  color: white;
-}
-
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
-}
-
-
-
-.fa-instagram {
-  background: #C91B94;
-  color: white;
-}
-.fa-github {
-  background: #000000;
-  color: white;
-}
-
-
-</style>
-</head>
-<body>
-
-<!-- Add font awesome icons -->
-<center>
-<a href="kidistamdie@gmail.com" class="fa fa-envelope"></a>
-<a href="https://www.linkedin.com/in/kidist-amde-2127a2142/" class="fa fa-linkedin"></a>
-<a href="https://github.com/kidist-amde" class="fa fa-github"></a>
-<a href="https://twitter.com/kidist_amde" class="fa fa-twitter"></a>
-<a href="https://www.instagram.com/kidist_kiyam/" class="fa fa-instagram"></a>
-
-</center>
-
-      
-</body>
-
-</body>
-</html>
+	<div class="container">
+		<section id="bio" class="bio">
+			<img src="https://via.placeholder.com/200" alt="Profile Picture">
