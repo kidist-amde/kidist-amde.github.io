@@ -40,13 +40,42 @@
 			line-height: 1.5;
 			margin: 0 0 20px 0;
 		}
+		.profile-pic-container {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+
+.profile-pic-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+		
 	</style>
 </head>
 <body>
 	<header>
 		<h1>My Personal Bio Page</h1>
 	</header>
-	<main>
+
+		<main>
+    <div class="profile-pic-container">
+        <img src="your-profile-picture.jpg" alt="Your Name">
+    </div>
+
+
+
 		<h2>About Me</h2>
 		<p> Greetings! My name is Kidist, a recent MSc Data Science graduate from the University of Trento, Italy. 
 I have a solid foundation in programming languages, statistical methods, and machine learning frameworks. I have earned
@@ -83,7 +112,7 @@ My main objective is on promoting positive outcomes, such as explainability,
 		
 		<h2>Volunteer Activities </h2>
 		
-		
+		</main>
 		
 
 		
