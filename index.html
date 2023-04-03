@@ -7,6 +7,7 @@
 	<meta charset="UTF-8">
 	<title>My Personal Bio Page</title>
 	<!-- Add any additional meta tags, stylesheets, or scripts here -->
+	
 	<style>
 		body {
 			font-family: Arial, sans-serif;
@@ -41,6 +42,27 @@
 			line-height: 1.5;
 			margin: 0 0 20px 0;
 		}
+#scrollUp, #scrollDown {
+  position: fixed;
+  bottom: 20px;
+  width: 50px;
+  height: 50px;
+  background-color: #ccc;
+  color: #fff;
+  font-size: 24px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+#scrollUp {
+  left: 20px;
+}
+
+#scrollDown {
+  right: 20px;
+}
+		
 	</style>
 </head>
 <body>
@@ -186,7 +208,18 @@ immensely fulfilling experience.
 <a href="https://www.instagram.com/kidist_kiyam/" class="fa fa-instagram"></a>
 
 </center>
+<script>
+const scrollUpButton = document.getElementById("scrollUp");
+const scrollDownButton = document.getElementById("scrollDown");
 
+scrollUpButton.addEventListener("click", () => {
+  document.documentElement.scrollTop -= 100;
+});
+
+scrollDownButton.addEventListener("click", () => {
+  document.documentElement.scrollTop += 100;
+});
+</script>
       
 </body>
 
