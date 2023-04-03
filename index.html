@@ -24,20 +24,6 @@
 			text-align: center;
 		}
 		
-		footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #f5f5f5;
-  text-align: center;
-  padding: 10px;
-}
-
-footer p {
-  font-size: 12px;
-  color: #666;
-}
 		h1 {
 			font-size: 36px;
 			margin: 0;
@@ -56,27 +42,6 @@ footer p {
 			line-height: 1.5;
 			margin: 0 0 20px 0;
 		}
-#scrollUp, #scrollDown {
-  position: fixed;
-  bottom: 20px;
-  width: 50px;
-  height: 50px;
-  background-color: #ccc;
-  color: #fff;
-  font-size: 24px;
-  border: none;
-  outline: none;
-  cursor: pointer;
-}
-
-#scrollUp {
-  left: 20px;
-}
-
-#scrollDown {
-  right: 20px;
-}
-		
 	</style>
 </head>
 <body>
@@ -222,26 +187,9 @@ immensely fulfilling experience.
 <a href="https://www.instagram.com/kidist_kiyam/" class="fa fa-instagram"></a>
 
 </center>
-	      
-<footer>
-  <p>&copy; 2023 Kidist Amde Mekonnen. All rights reserved.</p>
-</footer>
 
-<button id="scrollUp"><i class="fa fa-chevron-up"></i></button>
-<button id="scrollDown"><i class="fa fa-chevron-down"></i></button>
-<script>
-const scrollUpButton = document.getElementById("scrollUp");
-const scrollDownButton = document.getElementById("scrollDown");
-
-scrollUpButton.addEventListener("click", () => {
-  document.documentElement.scrollTop -= 100;
-});
-
-scrollDownButton.addEventListener("click", () => {
-  document.documentElement.scrollTop += 100;
-});
-</script>
-
+      
+</body>
 
 </body>
 </html>
