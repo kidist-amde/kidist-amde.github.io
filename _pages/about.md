@@ -62,3 +62,8 @@ Findings of the Association for Computational Linguistics \
 * GitHub: [kidist-amde](https://github.com/kidist-amde)
 * LinkedIn: [kidistamde](https://www.linkedin.com/in/kidistamde/)
 * Google Scholar: [Kidist Amde Mekonnen](https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en)
+
+### Visitors
+<div style="max-width: 360px; width: 100%; overflow: hidden;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cdeuZkcQjfNVFIKhN3pyrvouyqB8mew71lwYL14uPfk"></script>
+</div>
