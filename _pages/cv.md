@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* 2023-Present: PhD Candidate, University of Amsterdam, Netherlands
+* 2023-Present: ELLIS PhD Researcher, University of Amsterdam, Netherlands
 * 2020-2023: MSc in Data Science, University of Trento, Italy
 * 2019-2020: MSc in Machine Intelligence, African Institute for Mathematical Sciences / AMMI, Rwanda
 * 2013-2017: BSc in Computer Science, University of Gondar, Ethiopia
@@ -63,9 +63,10 @@ Teaching
   
 Service and leadership
 ======
-* Teaching Assistant, AddisCoder
+* Teaching Assistant, University of Amsterdam
+* Teaching Assistant, AddisCoder; programming and algorithms outreach
 * Hackathon mentor and organizer support, European Summer School on Information Retrieval, ESSIR 2024
 * Mentor, MeetMentors
 * Core Team Volunteer, Women in AI & Robotics, Sep. 2021-Apr. 2022
 * Volunteer, Women in AI, Sep. 2020-Sep. 2021
-* Reviewing and community service in information retrieval, machine learning, and natural language processing venues.
+* Reviewing and community service in information retrieval, machine learning, and natural language processing venues
