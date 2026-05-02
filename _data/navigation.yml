@@ -1,0 +1,12 @@
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Research"
+    url: /portfolio/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
