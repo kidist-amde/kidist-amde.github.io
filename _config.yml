@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kidist Amde Mekonnen"
 title_separator          : "-"
 name                     : &name "Kidist Amde Mekonnen"
-description              : &description "PhD Researcher at the University of Amsterdam's IRLab working on generative retrieval, recommendation, neural IR, multilingual retrieval, retrieval-augmented generation, and large-scale machine learning."
+description              : &description "PhD Researcher in the Information Retrieval Lab at the University of Amsterdam, working on generative methods for information retrieval, neural IR, recommender systems, multilingual retrieval, and continual learning for retrieval systems."
 url                      : https://kidist-amde.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kidist-amde/kidist-amde.github.io"
@@ -21,10 +21,10 @@ repository               : "kidist-amde/kidist-amde.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-placeholder.svg"
+  avatar           : "Kidist.jpg"
   name             : "Kidist Amde Mekonnen"
   pronouns         : # example: "he/him"  
-  bio              : "PhD Researcher at the University of Amsterdam's IRLab"
+  bio              : "PhD Researcher in the Information Retrieval Lab at the University of Amsterdam"
   location         : "Amsterdam, The Netherlands"
   employer         : "University of Amsterdam"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      :
   orcid            :
   pubmed           :
-  researchgate     :
+  researchgate     : "https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf"
 
   # Repositories and software development
   bitbucket        :
@@ -125,7 +125,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "profile-placeholder.svg" # Open Graph/Twitter default site image
+og_image                 : "Kidist.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -135,6 +135,7 @@ social:
     - "https://github.com/kidist-amde"
     - "https://www.linkedin.com/in/kidistamde/"
     - "https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en"
+    - "https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf"
 
 
 # Analytics
