@@ -78,8 +78,7 @@ Findings of the Association for Computational Linguistics
 
 
 ### 🗺 Visitors
-<div style="max-width: 500px; width: 100%;">
+<div style="width: 100%; overflow: hidden;">
   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=cdeuZkcQjfNVFIKhN3pyrvouyqB8mew71lwYL14uPfk"></script>
 </div>
-
 
