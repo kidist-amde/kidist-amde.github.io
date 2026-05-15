@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I am an ELLIS PhD Researcher in the [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and Dr. [Andrew Yates](https://andrewyates.net/). -->
 I am an ELLIS PhD researcher in the [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, working with Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) as my promotor and Dr. [Andrew Yates](https://andrewyates.net/) as my co-promotor.
 
 My research focuses on generative retrieval, recommendation, neural information retrieval, multilingual retrieval, retrieval-augmented generation, and large-scale machine learning. I study how retrieval systems can represent, generate, rank, and adapt to information needs across languages and domains. My work connects generative information retrieval with efficient learning objectives, continual memory, robust decoding, and evaluation for real-world retrieval settings.
 
-### Research Interests
+### 🔍 Research Interests
 * Generative information retrieval
 * Neural information retrieval and recommender systems
 * Multilingual and low-resource retrieval
@@ -22,7 +21,7 @@ My research focuses on generative retrieval, recommendation, neural information 
 * Retrieval-augmented generation and large-scale machine learning
 * Broader interests in generative modeling, multimodal learning, and reinforcement learning
 
-### Selected Publications
+### 📝 Selected Publications
 
 [SIGIR 2026] **A Parametric Memory Head for Continual Generative Retrieval** [[DOI]](https://doi.org/10.1145/3805712.3809725) (_Full Paper, to appear_)  
 The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval  
@@ -46,14 +45,14 @@ Findings of the Association for Computational Linguistics
 
 [arXiv 2024] **Conditioning GAN Without Training Dataset** [[Paper]](https://arxiv.org/abs/2405.20687)
 
-### Research Highlights
+### 💡 Research Highlights
 * **Continual generative retrieval:** developing parametric-memory approaches that allow generative retrieval systems to update and retain document knowledge over time.
 * **Decoding and robustness:** reproducing and stress-testing look-ahead decoding priors to understand when generative retrieval gains are reliable.
 * **Direct relevance optimization:** designing lightweight objectives for improving document relevance in generative information retrieval.
 * **Multilingual retrieval:** building text embeddings and benchmarks for Amharic and other low-resource retrieval settings.
 * **Recommendation and RAG:** exploring generative recommendation, semantic identifiers, trie-constrained generation, and retrieval-augmented systems.
 
-### Education and Experience
+### 🎓 Education and Experience
 * *2023–Present*, ELLIS PhD Researcher, University of Amsterdam, The Netherlands
 * *Apr. 2022–Oct. 2022*, Data Science Research Intern, Nanovery, Newcastle upon Tyne, United Kingdom
 * *2020–2023*, MSc in Data Science, University of Trento, Italy
@@ -61,7 +60,7 @@ Findings of the Association for Computational Linguistics
 * *2017–2019*, Assistant Lecturer, Department of Computer Science, University of Gondar, Ethiopia
 * *2013–2017*, BSc in Computer Science, University of Gondar, Ethiopia
 
-### Teaching and Service
+### 🤝 Teaching and Service
 * Teaching Assistant, University of Amsterdam
 * Teaching Assistant, [AddisCoder](https://www.addiscoder.com/) — programming and algorithms outreach. [[Blog]](https://irlab.science.uva.nl/2025/03/11/empowering-future-innovators/)
 * Hackathon mentor and organizer support, [European Summer School on Information Retrieval, ESSIR 2024](https://2024.essir.eu/organization)
@@ -70,7 +69,7 @@ Findings of the Association for Computational Linguistics
 * Volunteer, [Women in AI](https://www.womeninai.co/), Sep. 2020–Sep. 2021
 * Reviewing and community service in information retrieval, machine learning, and natural language processing venues
 
-### Contact
+### 📬 Contact
 * Email: [k.a.mekonnen@uva.nl](mailto:k.a.mekonnen@uva.nl)
 * GitHub: [kidist-amde](https://github.com/kidist-amde)
 * LinkedIn: [kidistamde](https://www.linkedin.com/in/kidistamde/)
@@ -78,9 +77,9 @@ Findings of the Association for Computational Linguistics
 * ResearchGate: [Kidist Amde Mekonnen](https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf)
 
 
-
-### Visitors
-<div style="max-width: 360px; width: 100%; overflow: hidden;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cdeuZkcQjfNVFIKhN3pyrvouyqB8mew71lwYL14uPfk"></script>
+### 🗺 Visitors
+<div style="max-width: 500px; width: 100%;">
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=cdeuZkcQjfNVFIKhN3pyrvouyqB8mew71lwYL14uPfk"></script>
 </div>
+
 
