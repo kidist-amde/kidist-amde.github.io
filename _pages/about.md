@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an ELLIS PhD Researcher in the [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and Dr. [Andrew Yates](https://andrewyates.net/).
+<!-- I am an ELLIS PhD Researcher in the [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and Dr. [Andrew Yates](https://andrewyates.net/). -->
+I am an ELLIS PhD researcher in the [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, working with Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) as my promotor and Dr. [Andrew Yates](https://andrewyates.net/) as my co-promotor.
 
 My research focuses on generative retrieval, recommendation, neural information retrieval, multilingual retrieval, retrieval-augmented generation, and large-scale machine learning. I study how retrieval systems can represent, generate, rank, and adapt to information needs across languages and domains. My work connects generative information retrieval with efficient learning objectives, continual memory, robust decoding, and evaluation for real-world retrieval settings.
 
@@ -77,9 +78,9 @@ Findings of the Association for Computational Linguistics
 * ResearchGate: [Kidist Amde Mekonnen](https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf)
 
 
-<!--
+
 ### Visitors
 <div style="max-width: 360px; width: 100%; overflow: hidden;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cdeuZkcQjfNVFIKhN3pyrvouyqB8mew71lwYL14uPfk"></script>
 </div>
--->
+
