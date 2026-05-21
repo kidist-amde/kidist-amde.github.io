@@ -69,7 +69,7 @@ Findings of the Association for Computational Linguistics
 * Volunteer, [Women in AI](https://www.womeninai.co/), Sep. 2020–Sep. 2021
 * Reviewing and community service in information retrieval, machine learning, and natural language processing venues
 
-### 📬 Contact
+<!-- ### 📬 Contact
 * Email: [k.a.mekonnen@uva.nl](mailto:k.a.mekonnen@uva.nl)
 * GitHub: [kidist-amde](https://github.com/kidist-amde)
 * X: [kidist_amde](https://x.com/kidist_amde)
@@ -77,7 +77,7 @@ Findings of the Association for Computational Linguistics
 * ORCID: [0009-0006-1702-9514](https://orcid.org/0009-0006-1702-9514)
 * LinkedIn: [kidistamde](https://www.linkedin.com/in/kidistamde/)
 * Google Scholar: [Kidist Amde Mekonnen](https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en)
-* ResearchGate: [Kidist Amde Mekonnen](https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf)
+* ResearchGate: [Kidist Amde Mekonnen](https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf) -->
 
 
 ### 🗺 Visitors
