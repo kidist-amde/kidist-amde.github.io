@@ -61,7 +61,7 @@ Findings of the Association for Computational Linguistics
 * *2013–2017*, BSc in Computer Science, University of Gondar, Ethiopia
 
 ### 🤝 Teaching and Service
-* Teaching Assistant, University of Amsterdam
+* Teaching Assistant, Recommender Systems (MSc Artificial Intelligence), University of Amsterdam, June 2025. Developed and delivered lectures on generative recommendation, guided students in reproducing recommendation methods, and conducted assessments. [[Slides]](https://yubaotang11.github.io/resources/Recsys_2025_Lecture_4_Generative_approaches_to_recommender_systems.pdf)
 * Teaching Assistant, [AddisCoder](https://www.addiscoder.com/) — programming and algorithms outreach. [[Blog]](https://irlab.science.uva.nl/2025/03/11/empowering-future-innovators/)
 * Hackathon mentor and organizer support, [European Summer School on Information Retrieval, ESSIR 2024](https://2024.essir.eu/organization)
 * Mentor, [MeetMentors](https://www.meetmentors.org/kidist-amde)
@@ -72,6 +72,9 @@ Findings of the Association for Computational Linguistics
 ### 📬 Contact
 * Email: [k.a.mekonnen@uva.nl](mailto:k.a.mekonnen@uva.nl)
 * GitHub: [kidist-amde](https://github.com/kidist-amde)
+* X: [kidist_amde](https://x.com/kidist_amde)
+* Hugging Face: [kiyam](https://huggingface.co/kiyam)
+* ORCID: [0009-0006-1702-9514](https://orcid.org/0009-0006-1702-9514)
 * LinkedIn: [kidistamde](https://www.linkedin.com/in/kidistamde/)
 * Google Scholar: [Kidist Amde Mekonnen](https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en)
 * ResearchGate: [Kidist Amde Mekonnen](https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf)
@@ -81,4 +84,3 @@ Findings of the Association for Computational Linguistics
 <div style="width: 100%; overflow: hidden;">
   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=cdeuZkcQjfNVFIKhN3pyrvouyqB8mew71lwYL14uPfk"></script>
 </div>
-

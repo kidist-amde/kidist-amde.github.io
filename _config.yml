@@ -34,7 +34,7 @@ author:
   arxiv            :
   googlescholar    : "https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en"
   impactstory      :
-  orcid            :
+  orcid            : "https://orcid.org/0009-0006-1702-9514"
   pubmed           :
   researchgate     : "https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf"
 
@@ -43,6 +43,7 @@ author:
   codepen          :
   dribbble         :
   github           : "kidist-amde"
+  huggingface      : "kiyam"
   kaggle           :
   stackoverflow    :      
 
@@ -64,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "kidist_amde" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -120,7 +121,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "kidist_amde"
 facebook:
   username               :
   app_id                 :
@@ -133,6 +134,9 @@ social:
   name                   : "Kidist Amde Mekonnen"
   links: # An array of links to social media profiles
     - "https://github.com/kidist-amde"
+    - "https://x.com/kidist_amde"
+    - "https://huggingface.co/kiyam"
+    - "https://orcid.org/0009-0006-1702-9514"
     - "https://www.linkedin.com/in/kidistamde/"
     - "https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en"
     - "https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf"

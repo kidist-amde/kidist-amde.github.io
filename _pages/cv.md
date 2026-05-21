@@ -63,7 +63,7 @@ Teaching
   
 Service and leadership
 ======
-* Teaching Assistant, University of Amsterdam
+* Teaching Assistant, Recommender Systems (MSc Artificial Intelligence), University of Amsterdam, June 2025
 * Teaching Assistant, AddisCoder; programming and algorithms outreach
 * Hackathon mentor and organizer support, European Summer School on Information Retrieval, ESSIR 2024
 * Mentor, MeetMentors

@@ -1,42 +1,50 @@
+# 🌐 Kidist Amde Mekonnen — Academic Website
 
-# Academic Pages
+Personal academic website of **Kidist Amde Mekonnen**, ELLIS PhD Researcher at the [Information Retrieval Lab](https://irlab.science.uva.nl/), University of Amsterdam.
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+🔗 Live site: **[kidist-amde.github.io](https://kidist-amde.github.io)**
 
-Academic Pages is a Github Pages template for academic websites.
+---
 
+## 🔬 Research
 
-# Getting Started
+Generative retrieval · Neural IR · Multilingual retrieval · Continual learning · RAG · Large-scale machine learning
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+---
 
-See more info at https://academicpages.github.io/
+## 🛠️ Built With
 
-## Running Locally
+[Academic Pages](https://academicpages.github.io/) Jekyll template, hosted on GitHub Pages.
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+### Run locally
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+```bash
+bundle install
+jekyll serve -l -H localhost
+```
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+Then open `http://localhost:4000`.
 
-# Maintenance 
+---
 
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+## 📁 Key Files
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+| Path | Purpose |
+|------|---------|
+| `_config.yml` | Site-wide settings (name, URL, social links) |
+| `_pages/about.md` | Homepage / bio |
+| `_pages/cv.md` | CV page |
+| `_publications/` | Publication entries |
+| `_portfolio/` | Research highlight pages |
+| `_teaching/` | Teaching & service entries |
+| `files/` | PDF CV and other downloads |
+| `images/Kidist.jpg` | Profile photo |
 
-## Bugfixes and enhancements
+---
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+## 📬 Contact
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+- ✉️ [k.a.mekonnen@uva.nl](mailto:k.a.mekonnen@uva.nl)
+- 🐙 [github.com/kidist-amde](https://github.com/kidist-amde)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kidistamde/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en)
