@@ -1,16 +1,16 @@
 ---
 permalink: /
 title: "Kidist Amde Mekonnen"
-description: "Kidist Amde Mekonnen is an ELLIS PhD Researcher in the Information Retrieval Lab at the University of Amsterdam, working on generative retrieval, neural IR, recommender systems, multilingual retrieval, and continual learning for retrieval systems."
+description: "Kidist Amde Mekonnen is an ELLIS PhD researcher in the Information Retrieval Lab at the University of Amsterdam, working on generative retrieval, neural information retrieval, recommender systems, multilingual retrieval, and continual learning for retrieval systems."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an ELLIS PhD researcher in the [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, working with Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) as my promotor and Dr. [Andrew Yates](https://andrewyates.net/) as my co-promotor.
+I am a third-year ELLIS PhD researcher in the [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, where I work with Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) as my promotor and Dr. [Andrew Yates](https://andrewyates.net/) as my co-promotor.
 
-My research focuses on generative retrieval, recommendation, neural information retrieval, multilingual retrieval, retrieval-augmented generation, and large-scale machine learning. I study how retrieval systems can represent, generate, rank, and adapt to information needs across languages and domains. My work connects generative information retrieval with efficient learning objectives, continual memory, robust decoding, and evaluation for real-world retrieval settings.
+My research focuses on generative retrieval, recommendation, neural information retrieval, multilingual retrieval, retrieval-augmented generation, and scalable retrieval systems. I study how retrieval systems can represent, generate, rank, and adapt to information needs across languages and domains. My work connects generative information retrieval with efficient learning objectives, continual memory, robust decoding, and evaluation for real-world retrieval settings.
 
 ### 🔍 Research Interests
 * Generative information retrieval
@@ -18,7 +18,7 @@ My research focuses on generative retrieval, recommendation, neural information 
 * Multilingual and low-resource retrieval
 * Continual learning for retrieval systems
 * Robust decoding and evaluation for generative retrieval
-* Retrieval-augmented generation and large-scale machine learning
+* Retrieval-augmented generation and scalable retrieval systems
 * Broader interests in generative modeling, multimodal learning, and reinforcement learning
 
 ### 📝 Selected Publications
@@ -30,6 +30,11 @@ The 49th International ACM SIGIR Conference on Research and Development in Infor
 [SIGIR 2026] **Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval** [[DOI]](https://doi.org/10.1145/3805712.3808567) (_Reproducibility Track, to appear_)  
 The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval  
 **_Kidist Amde Mekonnen_**, Yongkang Li, Yubao Tang, Simon Lupart, and Maarten de Rijke
+
+[ACL MeLLM 2026] **The Multilingual Curse at the Retrieval Layer: Evidence from Amharic** [[PDF]](https://arxiv.org/pdf/2605.24556) (_Workshop paper, to appear_)  
+The 1st Workshop on Multilinguality in the Era of Large Language Models, ACL 2026  
+Yosef Worku Alemneh<sup>*</sup>, **_Kidist Amde Mekonnen_**<sup>*</sup>, and Maarten de Rijke  
+<sup>*</sup>Equal contribution
 
 [SIGIR 2025] **Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval** [[DOI]](https://dl.acm.org/doi/10.1145/3726302.3730023) (_Full Paper_)  
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval  
@@ -47,9 +52,9 @@ Findings of the Association for Computational Linguistics
 
 ### 💡 Research Highlights
 * **Continual generative retrieval:** developing parametric-memory approaches that allow generative retrieval systems to update and retain document knowledge over time.
-* **Decoding and robustness:** reproducing and stress-testing look-ahead decoding priors to understand when generative retrieval gains are reliable.
+* **Decoding and robustness:** reproducing and stress-testing look-ahead decoding priors to understand when generative retrieval gains are reliable under query variation and cross-lingual shift.
 * **Direct relevance optimization:** designing lightweight objectives for improving document relevance in generative information retrieval.
-* **Multilingual retrieval:** building text embeddings and benchmarks for Amharic and other low-resource retrieval settings.
+* **Multilingual and low-resource retrieval:** studying retrieval-layer failures in multilingual systems, with evidence from Amharic retrieval benchmarks, optimized text embeddings, and MeLLM 2026 work on the multilingual curse.
 * **Recommendation and RAG:** exploring generative recommendation, semantic identifiers, trie-constrained generation, and retrieval-augmented systems.
 
 ### 🎓 Education and Experience
@@ -61,14 +66,17 @@ Findings of the Association for Computational Linguistics
 * *2013–2017*, BSc in Computer Science, University of Gondar, Ethiopia
 
 ### 🤝 Teaching and Service
-* Teaching Assistant, Recommender Systems (MSc Artificial Intelligence), University of Amsterdam, June 2025. Developed and delivered lectures on generative recommendation, guided students in reproducing recommendation methods, and conducted assessments. [[Slides]](https://yubaotang11.github.io/resources/Recsys_2025_Lecture_4_Generative_approaches_to_recommender_systems.pdf)
+* **Recommender Systems (MSc Artificial Intelligence), University of Amsterdam**, June 2025 and June 2026. Developed and delivered lectures on generative recommendation, including semantic identifiers, trie-constrained generation, and generative approaches to recommender systems.  
+  **2025:** [[PDF]](/files/teaching/recsys-2025-generative-recommendation.pdf) 
+  **2026:** [[PDF]](/files/teaching/recsys-2026-generative-recommendation.pdf) 
+* **Snellius Practical Guide for Recommender Systems**, University of Amsterdam, 2026. Prepared and delivered practical teaching material on using SURF Snellius for course experiments, including storage, Python environments, SLURM jobs, debugging, and responsible use of shared compute budgets. [[PDF]](/files/teaching/recsys-2026-snellius-practical-guide.pdf) 
+
 * Teaching Assistant, [AddisCoder](https://www.addiscoder.com/) — programming and algorithms outreach. [[Blog]](https://irlab.science.uva.nl/2025/03/11/empowering-future-innovators/)
 * Hackathon mentor and organizer support, [European Summer School on Information Retrieval, ESSIR 2024](https://2024.essir.eu/organization)
 * Mentor, [MeetMentors](https://www.meetmentors.org/kidist-amde)
 * Core Team Volunteer, [Women in AI & Robotics](https://www.womeninairobotics.de/), Sep. 2021–Apr. 2022
 * Volunteer, [Women in AI](https://www.womeninai.co/), Sep. 2020–Sep. 2021
-* Reviewing and community service in information retrieval, machine learning, and natural language processing venues
-
+* Reviewer for major information retrieval and machine learning venues, including **NeurIPS 2026**, **SIGIR 2026** across multiple tracks, and **ECIR 2025**; received **ECIR best reviewer recognition**. [[Certificate]](/files/certificates/ecir-reviewer2025-best-.png)
 <!-- ### 📬 Contact
 * Email: [k.a.mekonnen@uva.nl](mailto:k.a.mekonnen@uva.nl)
 * GitHub: [kidist-amde](https://github.com/kidist-amde)
@@ -80,7 +88,7 @@ Findings of the Association for Computational Linguistics
 * ResearchGate: [Kidist Amde Mekonnen](https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf) -->
 
 
-### 🗺 Visitors
+<!-- ### 🗺 Visitors
 <div style="width: 100%; overflow: hidden;">
   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=cdeuZkcQjfNVFIKhN3pyrvouyqB8mew71lwYL14uPfk"></script>
-</div>
+</div> -->
