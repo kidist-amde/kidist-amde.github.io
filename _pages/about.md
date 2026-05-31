@@ -76,7 +76,7 @@ Findings of the Association for Computational Linguistics
 * Mentor, [MeetMentors](https://www.meetmentors.org/kidist-amde)
 * Core Team Volunteer, [Women in AI & Robotics](https://www.womeninairobotics.de/), Sep. 2021–Apr. 2022
 * Volunteer, [Women in AI](https://www.womeninai.co/), Sep. 2020–Sep. 2021
-* Reviewer for major information retrieval and machine learning venues, including **NeurIPS 2026**, **SIGIR 2026** across multiple tracks, and **ECIR 2025**; received **ECIR best reviewer recognition**. [[Certificate]](/files/certificates/ecir-2025-best-reviewer.png)
+* Reviewer for major information retrieval and machine learning venues, including **NeurIPS 2026**, **SIGIR 2026** across multiple tracks, and **ECIR 2025**; received **ECIR best reviewer recognition**. [[Certificate]](files/ecir-2025-best-reviewer.png)
 
 
 
