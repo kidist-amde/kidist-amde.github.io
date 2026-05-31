@@ -6,7 +6,9 @@ permalink: /teaching/2025-recommender-systems
 venue: "University of Amsterdam, MSc Artificial Intelligence"
 date: 2025-06-01
 location: "Amsterdam, The Netherlands"
-slidesurl: "https://yubaotang11.github.io/resources/Recsys_2025_Lecture_4_Generative_approaches_to_recommender_systems.pdf"
+slidesurl: "/files/teaching/recsys-2025-generative-recommendation.pdf"
 ---
 
-Developed and delivered lectures on generative recommendation, guided students in reproducing recommendation methods, and conducted assessments.
+Teaching assistant for the MSc Artificial Intelligence Recommender Systems course. Developed and delivered a lecture on generative approaches to recommender systems, including semantic identifiers and generative recommendation.
+
+[[Slides]](/files/teaching/recsys-2025-generative-recommendation.pdf)

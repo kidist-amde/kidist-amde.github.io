@@ -66,18 +66,14 @@ Findings of the Association for Computational Linguistics
 * *2013–2017*, BSc in Computer Science, University of Gondar, Ethiopia
 
 ### 🤝 Teaching and Service
-* **Recommender Systems (MSc Artificial Intelligence), University of Amsterdam**, June 2025 and June 2026. Developed and delivered lectures on generative recommendation, including semantic identifiers, trie-constrained generation, and generative approaches to recommender systems.  
-  **2025:** [[PDF]](/files/teaching/recsys-2025-generative-recommendation.pdf) 
-  **2026:** [[PDF]](/files/teaching/recsys-2026-generative-recommendation.pdf) 
-* **Snellius Practical Guide for Recommender Systems**, University of Amsterdam, 2026. Prepared and delivered practical teaching material on using SURF Snellius for course experiments, including storage, Python environments, SLURM jobs, debugging, and responsible use of shared compute budgets. [[PDF]](/files/teaching/recsys-2026-snellius-practical-guide.pdf) 
-
+* **Recommender Systems**, University of Amsterdam, MSc Artificial Intelligence, 2025–2026. Developed and delivered lectures on generative recommendation and Snellius-based practical experimentation. [[2025 Slides]](/files/teaching/recsys-2025-generative-recommendation.pdf) [[2026 GenRec Slides]](/files/teaching/recsys-2026-generative-recommendation.pdf) [[Snellius Guide]](/files/teaching/recsys-2026-snellius-practical-guide.pdf)
+* **Information Retrieval 0**, University of Amsterdam, BSc Artificial Intelligence, 2025. Teaching assistant for labs, assignments, project feedback, grading, and exam assessment.
+* **BSc thesis supervision**, University of Amsterdam, 2026. Supervising a thesis project on multilingual search for low-resource languages.
 * Teaching Assistant, [AddisCoder](https://www.addiscoder.com/) — programming and algorithms outreach. [[Blog]](https://irlab.science.uva.nl/2025/03/11/empowering-future-innovators/)
 * Hackathon mentor and organizer support, [European Summer School on Information Retrieval, ESSIR 2024](https://2024.essir.eu/organization)
 * Mentor, [MeetMentors](https://www.meetmentors.org/kidist-amde)
 * Core Team Volunteer, [Women in AI & Robotics](https://www.womeninairobotics.de/), Sep. 2021–Apr. 2022
-* Volunteer, [Women in AI](https://www.womeninai.co/), Sep. 2020–Sep. 2021
-* Reviewer for major information retrieval and machine learning venues, including **NeurIPS 2026**, **SIGIR 2026** across multiple tracks, and **ECIR 2025**; received **ECIR best reviewer recognition**. [[Certificate]](files/ecir-2025-best-reviewer.png)
-
+* Reviewer for major information retrieval and machine learning venues, including **NeurIPS 2026**, **SIGIR 2026** across multiple tracks, and **ECIR 2025**; received **ECIR best reviewer recognition**. [[Certificate]](files/certificates/ecir-2025-best-reviewer.png)
 
 
 <!-- ### 📬 Contact

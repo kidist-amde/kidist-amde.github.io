@@ -8,4 +8,6 @@ date: 2026-01-01
 location: "International"
 ---
 
-Reviewing and community service for information retrieval, machine learning, and natural language processing venues.
+Reviewer for major information retrieval and machine learning venues, including NeurIPS 2026, SIGIR 2026 across multiple tracks, and ECIR 2025. Received ECIR best reviewer recognition.
+
+[[Certificate]](/files/ecir-2025-best-reviewer.png)
