@@ -42,7 +42,8 @@ The 48th International ACM SIGIR Conference on Research and Development in Infor
 
 [ACL Findings 2025] **Optimized Text Embeddings & Benchmarks for Amharic Passage Retrieval** [[Paper]](https://aclanthology.org/2025.findings-acl.543/)  
 Findings of the Association for Computational Linguistics  
-**_Kidist Amde Mekonnen_**, E. Alemneh, and Maarten de Rijke
+**_Kidist Amde Mekonnen_**<sup>*</sup>, Yosef Worku Alemneh<sup>*</sup>, and Maarten de Rijke  
+<sup>*</sup>Equal contribution
 
 [arXiv 2024] **Adv-KD: Adversarial Knowledge Distillation for Faster Diffusion Sampling** [[Paper]](https://arxiv.org/abs/2405.20675)
 
