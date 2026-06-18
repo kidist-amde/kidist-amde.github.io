@@ -35,9 +35,11 @@ The 49th International ACM SIGIR Conference on Research and Development in Infor
 ***Kidist Amde Mekonnen***, Yongkang Li, Yubao Tang, Simon Lupart, and Maarten de Rijke
 
 [![ACL MeLLM 2026](https://img.shields.io/badge/ACL%20MeLLM-2026-purple?style=flat-square)](https://arxiv.org/abs/2605.24556)
-**The Multilingual Curse at the Retrieval Layer: Evidence from Amharic** [[arXiv]](https://arxiv.org/abs/2605.24556) [[PDF]](https://arxiv.org/pdf/2605.24556) (*Workshop paper, to appear*)
-The 1st Workshop on Multilinguality in the Era of Large Language Models, ACL 2026
-Yosef Worku Alemneh<sup>*</sup>, ***Kidist Amde Mekonnen***<sup>*</sup>, and Maarten de Rijke <sup>*</sup>Equal contribution
+**The Multilingual Curse at the Retrieval Layer: Evidence from Amharic** [[arXiv]](https://arxiv.org/abs/2605.24556) [[PDF]](https://arxiv.org/pdf/2605.24556)  
+The 1st Workshop on Multilinguality in the Era of Large Language Models, ACL 2026  
+Yosef Worku Alemneh<sup>†</sup>, ***Kidist Amde Mekonnen***<sup>†</sup>, and Maarten de Rijke  
+<sup>†</sup>Equal contribution
+
 
 [![ACL SemEval 2026](https://img.shields.io/badge/ACL%20SemEval-2026-orange?style=flat-square)](https://arxiv.org/abs/2606.11945)
 **uva-irlab-conv at SemEval-2026 Task 8: Multi-Turn RAG with Learned Sparse Retrieval and Listwise Reranking** [[arXiv]](https://arxiv.org/abs/2606.11945) [[PDF]](https://arxiv.org/pdf/2606.11945)  
@@ -50,9 +52,10 @@ The 48th International ACM SIGIR Conference on Research and Development in Infor
 ***Kidist Amde Mekonnen***, Yubao Tang, and Maarten de Rijke
 
 [![ACL Findings 2025](https://img.shields.io/badge/ACL%20Findings-2025-red?style=flat-square)](https://aclanthology.org/2025.findings-acl.543/)
-**Optimized Text Embeddings & Benchmarks for Amharic Passage Retrieval** [[Paper]](https://aclanthology.org/2025.findings-acl.543/)
-Findings of the Association for Computational Linguistics
-***Kidist Amde Mekonnen***<sup>*</sup>, Yosef Worku Alemneh<sup>*</sup>, and Maarten de Rijke <sup>*</sup>Equal contribution
+**Optimized Text Embeddings & Benchmarks for Amharic Passage Retrieval** [[Paper]](https://aclanthology.org/2025.findings-acl.543/)  
+Findings of the Association for Computational Linguistics  
+***Kidist Amde Mekonnen***<sup>†</sup>, Yosef Worku Alemneh<sup>†</sup>, and Maarten de Rijke  
+<sup>†</sup>Equal contribution
 
 [![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square)](https://arxiv.org/abs/2405.20675)
 **Adv-KD: Adversarial Knowledge Distillation for Faster Diffusion Sampling** [[Paper]](https://arxiv.org/abs/2405.20675)
