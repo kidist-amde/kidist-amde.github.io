@@ -21,35 +21,47 @@ My research focuses on generative retrieval, recommendation, neural information 
 * Retrieval-augmented generation and scalable retrieval systems
 * Broader interests in generative modeling, multimodal learning, and reinforcement learning
 
+
 ### 📝 Selected Publications
 
-[SIGIR 2026] **A Parametric Memory Head for Continual Generative Retrieval** [[DOI]](https://doi.org/10.1145/3805712.3809725) (_Full Paper, to appear_)  
-The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval  
-**_Kidist Amde Mekonnen_**, Yubao Tang, and Maarten de Rijke
+[![SIGIR 2026](https://img.shields.io/badge/SIGIR-2026-blue?style=flat-square)](https://doi.org/10.1145/3805712.3809725)
+**A Parametric Memory Head for Continual Generative Retrieval** [[DOI]](https://doi.org/10.1145/3805712.3809725) (*Full Paper, to appear*)
+The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
+***Kidist Amde Mekonnen***, Yubao Tang, and Maarten de Rijke
 
-[SIGIR 2026] **Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval** [[DOI]](https://doi.org/10.1145/3805712.3808567) (_Reproducibility Track, to appear_)  
-The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval  
-**_Kidist Amde Mekonnen_**, Yongkang Li, Yubao Tang, Simon Lupart, and Maarten de Rijke
+[![SIGIR 2026](https://img.shields.io/badge/SIGIR-2026-blue?style=flat-square)](https://doi.org/10.1145/3805712.3808567)
+**Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval** [[DOI]](https://doi.org/10.1145/3805712.3808567) (*Reproducibility Track, to appear*)
+The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
+***Kidist Amde Mekonnen***, Yongkang Li, Yubao Tang, Simon Lupart, and Maarten de Rijke
 
-[ACL MeLLM 2026] **The Multilingual Curse at the Retrieval Layer: Evidence from Amharic** [[PDF]](https://arxiv.org/pdf/2605.24556) (_Workshop paper, to appear_)  
-The 1st Workshop on Multilinguality in the Era of Large Language Models, ACL 2026  
-Yosef Worku Alemneh<sup>*</sup>, **_Kidist Amde Mekonnen_**<sup>*</sup>, and Maarten de Rijke  
-<sup>*</sup>Equal contribution
+[![ACL MeLLM 2026](https://img.shields.io/badge/ACL%20MeLLM-2026-purple?style=flat-square)](https://arxiv.org/abs/2605.24556)
+**The Multilingual Curse at the Retrieval Layer: Evidence from Amharic** [[arXiv]](https://arxiv.org/abs/2605.24556) [[PDF]](https://arxiv.org/pdf/2605.24556) (*Workshop paper, to appear*)
+The 1st Workshop on Multilinguality in the Era of Large Language Models, ACL 2026
+Yosef Worku Alemneh<sup>*</sup>, ***Kidist Amde Mekonnen***<sup>*</sup>, and Maarten de Rijke <sup>*</sup>Equal contribution
 
-[SIGIR 2025] **Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval** [[DOI]](https://dl.acm.org/doi/10.1145/3726302.3730023) (_Full Paper_)  
-The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval  
-**_Kidist Amde Mekonnen_**, Yubao Tang, and Maarten de Rijke
+[![ACL SemEval 2026](https://img.shields.io/badge/ACL%20SemEval-2026-orange?style=flat-square)](https://arxiv.org/abs/2606.11945)
+**uva-irlab-conv at SemEval-2026 Task 8: Multi-Turn RAG with Learned Sparse Retrieval and Listwise Reranking** [[arXiv]](https://arxiv.org/abs/2606.11945) [[PDF]](https://arxiv.org/pdf/2606.11945)  
+The 20th International Workshop on Semantic Evaluation, ACL 2026  
+Simon Lupart, **_Kidist Amde Mekonnen_**, Zahra Abbasiantaeb, and Mohammad Aliannejadi
 
-[ACL Findings 2025] **Optimized Text Embeddings & Benchmarks for Amharic Passage Retrieval** [[Paper]](https://aclanthology.org/2025.findings-acl.543/)  
-Findings of the Association for Computational Linguistics  
-**_Kidist Amde Mekonnen_**<sup>*</sup>, Yosef Worku Alemneh<sup>*</sup>, and Maarten de Rijke  
-<sup>*</sup>Equal contribution
+[![SIGIR 2025](https://img.shields.io/badge/SIGIR-2025-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3726302.3730023)
+**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval** [[DOI]](https://dl.acm.org/doi/10.1145/3726302.3730023) (*Full Paper*)
+The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
+***Kidist Amde Mekonnen***, Yubao Tang, and Maarten de Rijke
 
-[arXiv 2024] **Adv-KD: Adversarial Knowledge Distillation for Faster Diffusion Sampling** [[Paper]](https://arxiv.org/abs/2405.20675)
+[![ACL Findings 2025](https://img.shields.io/badge/ACL%20Findings-2025-red?style=flat-square)](https://aclanthology.org/2025.findings-acl.543/)
+**Optimized Text Embeddings & Benchmarks for Amharic Passage Retrieval** [[Paper]](https://aclanthology.org/2025.findings-acl.543/)
+Findings of the Association for Computational Linguistics
+***Kidist Amde Mekonnen***<sup>*</sup>, Yosef Worku Alemneh<sup>*</sup>, and Maarten de Rijke <sup>*</sup>Equal contribution
 
-[arXiv 2023] **Balanced Face Dataset: Guiding StyleGAN for Labeled Synthetic Face Image Dataset for Underrepresented Group** [[Paper]](https://arxiv.org/abs/2308.03495)
+[![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square)](https://arxiv.org/abs/2405.20675)
+**Adv-KD: Adversarial Knowledge Distillation for Faster Diffusion Sampling** [[Paper]](https://arxiv.org/abs/2405.20675)
 
-[arXiv 2024] **Conditioning GAN Without Training Dataset** [[Paper]](https://arxiv.org/abs/2405.20687)
+[![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square)](https://arxiv.org/abs/2405.20687)
+**Conditioning GAN Without Training Dataset** [[Paper]](https://arxiv.org/abs/2405.20687)
+
+[![arXiv 2023](https://img.shields.io/badge/arXiv-2023-b31b1b?style=flat-square)](https://arxiv.org/abs/2308.03495)
+**Balanced Face Dataset: Guiding StyleGAN for Labeled Synthetic Face Image Dataset for Underrepresented Group** [[Paper]](https://arxiv.org/abs/2308.03495)
 
 ### 💡 Research Highlights
 * **Continual generative retrieval:** developing parametric-memory approaches that allow generative retrieval systems to update and retain document knowledge over time.
