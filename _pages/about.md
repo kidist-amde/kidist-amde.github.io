@@ -23,13 +23,18 @@ I am particularly interested in where generative retrieval systems fail: when re
 * **Generative recommendation:** exploring semantic and multimodal item identifiers, constrained generation, and scalable identifier learning.
 * **Retrieval-augmented systems:** contributing to multi-turn pipelines combining sparse retrieval, query reformulation, reranking, and generation.
 
-### 📰 Recent News
+### 📢 Recent News
 
-* 💼 **August 2026** — Joining **Booking.com** as a PhD Machine Learning Research Intern, working on scalable and generalizable ID embedding learning.
-* ✈️ **July 2026** — Traveling to Melbourne for SIGIR 2026, where I will present **“A Parametric Memory Head for Continual Generative Retrieval”** on **Wednesday, 22 July 2026**.
-* 🎤 **July 2026** — Presented our paper, **“The Multilingual Curse at the Retrieval Layer: Evidence from Amharic,”** at MeLLM @ ACL 2026 in San Diego.
-* 📄 **May 2026** — Our paper on multilingual retrieval for Amharic was accepted at MeLLM @ ACL 2026.
-* 📄 **April 2026** — Two papers were accepted at SIGIR 2026: a full paper on continual generative retrieval and a reproducibility paper on decoding robustness.
+* 🇬🇧 **November 2026** — I will undertake an **ELLIS research exchange at University College London (UCL)**, hosted by Prof. [Emine Yilmaz](https://emineyilmaz.github.io/).
+* <img src="/files/teaching/pngwing.com.png" alt="Booking.com" width="20" height="20" style="vertical-align: text-bottom;"> **August 2026** — Joining **Booking.com** as a PhD Machine Learning Research Intern, working on scalable and generalizable ID embedding learning.
+* 🇦🇺 **July 2026** — Traveling to Melbourne, Australia, to present two papers at SIGIR 2026: **“A Parametric Memory Head for Continual Generative Retrieval”** and **“Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval.”**
+* 🇺🇸 **July 2-7 2026** — Traveled to San Diego, USA, to present our paper, **“The Multilingual Curse at the Retrieval Layer: Evidence from Amharic,”** at MeLLM @ ACL 2026.
+* 🔥 **May 2026** — Our paper on multilingual retrieval for Amharic was accepted at MeLLM @ ACL 2026.
+* 🔥 **April 2026** — Two papers were accepted at SIGIR 2026: a full paper on continual generative retrieval and a reproducibility paper on decoding robustness.
+* 🇦🇹 **July 2025** — Traveled to Vienna, Austria, to present our paper, **“Optimized Text Embedding Models and Benchmarks for Amharic Passage Retrieval,”** at ACL 2025.
+* 🇮🇹 **July 2025** — Traveled to Padova, Italy, to present our paper, “Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval,” at SIGIR 2025.
+* 🔥 **May 2025** — Our paper, **“Optimized Text Embedding Models and Benchmarks for Amharic Passage Retrieval,”** was accepted to Findings of ACL 2025.
+* 🔥 **April 2025** — Our full paper, **“Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval,”** was accepted at SIGIR 2025.
 
 ### 🎓 Education and Experience
 
