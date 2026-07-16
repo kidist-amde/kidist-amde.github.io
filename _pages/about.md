@@ -30,19 +30,19 @@ The 49th International ACM SIGIR Conference on Research and Development in Infor
 ***Kidist Amde Mekonnen***, Yubao Tang, and Maarten de Rijke
 
 [![SIGIR 2026](https://img.shields.io/badge/SIGIR-2026-blue?style=flat-square)](https://doi.org/10.1145/3805712.3808567)
-**Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval** [[DOI]](https://doi.org/10.1145/3805712.3808567) (*Reproducibility Track, to appear*)
+**Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval** [[DOI]](https://doi.org/10.1145/3805712.3808567) [[arXiv]](https://arxiv.org/abs/2604.23396) (*Reproducibility Track, to appear*)
 The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
 ***Kidist Amde Mekonnen***, Yongkang Li, Yubao Tang, Simon Lupart, and Maarten de Rijke
 
 [![ACL MeLLM 2026](https://img.shields.io/badge/ACL%20MeLLM-2026-purple?style=flat-square)](https://aclanthology.org/2026.mellm-1.19/)
-**The Multilingual Curse at the Retrieval Layer: Evidence from Amharic** [[Paper]](https://aclanthology.org/2026.mellm-1.19/) [[PDF]](https://aclanthology.org/2026.mellm-1.19.pdf)  
+**The Multilingual Curse at the Retrieval Layer: Evidence from Amharic** [[DOI]](https://aclanthology.org/2026.mellm-1.19/) [[PDF]](https://aclanthology.org/2026.mellm-1.19.pdf)  
 The 1st Workshop on Multilinguality in the Era of Large Language Models, ACL 2026  
 Yosef Worku Alemneh<sup>†</sup>, ***Kidist Amde Mekonnen***<sup>†</sup>, and Maarten de Rijke  
 <sup>†</sup>Equal contribution
 
 
 [![ACL SemEval 2026](https://img.shields.io/badge/ACL%20SemEval-2026-orange?style=flat-square)](https://aclanthology.org/2026.semeval-1.373/)
-**uva-irlab-conv at SemEval-2026 Task 8: Multi-Turn RAG with Learned Sparse Retrieval and Listwise Reranking** [[Paper]](https://aclanthology.org/2026.semeval-1.373/) [[PDF]](https://aclanthology.org/2026.semeval-1.373.pdf)  
+**uva-irlab-conv at SemEval-2026 Task 8: Multi-Turn RAG with Learned Sparse Retrieval and Listwise Reranking** [[DOI]](https://aclanthology.org/2026.semeval-1.373/) [[PDF]](https://aclanthology.org/2026.semeval-1.373.pdf)  
 The 20th International Workshop on Semantic Evaluation, ACL 2026  
 Simon Lupart, **_Kidist Amde Mekonnen_**, Zahra Abbasiantaeb, and Mohammad Aliannejadi
 
@@ -52,7 +52,7 @@ The 48th International ACM SIGIR Conference on Research and Development in Infor
 ***Kidist Amde Mekonnen***, Yubao Tang, and Maarten de Rijke
 
 [![ACL Findings 2025](https://img.shields.io/badge/ACL%20Findings-2025-red?style=flat-square)](https://aclanthology.org/2025.findings-acl.543/)
-**Optimized Text Embeddings & Benchmarks for Amharic Passage Retrieval** [[Paper]](https://aclanthology.org/2025.findings-acl.543/)  
+**Optimized Text Embeddings & Benchmarks for Amharic Passage Retrieval** [[Paper]](https://aclanthology.org/2025.findings-acl.543/) [[DOI]](https://doi.org/10.18653/v1/2025.findings-acl.543)  
 Findings of the Association for Computational Linguistics  
 ***Kidist Amde Mekonnen***<sup>†</sup>, Yosef Worku Alemneh<sup>†</sup>, and Maarten de Rijke  
 <sup>†</sup>Equal contribution
