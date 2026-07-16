@@ -24,8 +24,8 @@ My research focuses on generative retrieval, recommendation, neural information 
 
 ### 📝 Selected Publications
 
-[![SIGIR 2026](https://img.shields.io/badge/SIGIR-2026-blue?style=flat-square)](https://doi.org/10.1145/3805712.3809725)
-**A Parametric Memory Head for Continual Generative Retrieval** [[DOI]](https://doi.org/10.1145/3805712.3809725) (*Full Paper, to appear*)
+[![SIGIR 2026](https://img.shields.io/badge/SIGIR-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3805712.3809725)
+**A Parametric Memory Head for Continual Generative Retrieval** [[Paper]](https://dl.acm.org/doi/10.1145/3805712.3809725) (*Full Paper, to appear*)
 The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
 ***Kidist Amde Mekonnen***, Yubao Tang, and Maarten de Rijke
 
@@ -35,7 +35,7 @@ The 49th International ACM SIGIR Conference on Research and Development in Infor
 ***Kidist Amde Mekonnen***, Yongkang Li, Yubao Tang, Simon Lupart, and Maarten de Rijke
 
 [![ACL MeLLM 2026](https://img.shields.io/badge/ACL%20MeLLM-2026-purple?style=flat-square)](https://aclanthology.org/2026.mellm-1.19/)
-**The Multilingual Curse at the Retrieval Layer: Evidence from Amharic** [[arXiv]](https://arxiv.org/abs/2605.24556) [[PDF]](https://aclanthology.org/2026.mellm-1.19/)  
+**The Multilingual Curse at the Retrieval Layer: Evidence from Amharic** [[Paper]](https://aclanthology.org/2026.mellm-1.19/) [[PDF]](https://aclanthology.org/2026.mellm-1.19.pdf)  
 The 1st Workshop on Multilinguality in the Era of Large Language Models, ACL 2026  
 Yosef Worku Alemneh<sup>†</sup>, ***Kidist Amde Mekonnen***<sup>†</sup>, and Maarten de Rijke  
 <sup>†</sup>Equal contribution
@@ -47,7 +47,7 @@ The 20th International Workshop on Semantic Evaluation, ACL 2026
 Simon Lupart, **_Kidist Amde Mekonnen_**, Zahra Abbasiantaeb, and Mohammad Aliannejadi
 
 [![SIGIR 2025](https://img.shields.io/badge/SIGIR-2025-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3726302.3730023)
-**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval** [[DOI]](https://dl.acm.org/doi/10.1145/3726302.3730023) (*Full Paper*)
+**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval** [[Paper]](https://dl.acm.org/doi/10.1145/3726302.3730023) (*Full Paper*)
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
 ***Kidist Amde Mekonnen***, Yubao Tang, and Maarten de Rijke
 
