@@ -12,4 +12,4 @@ citation: "Mekonnen, K. A., et al. (2026). &quot;Lost in Decoding? Reproducing a
 
 This reproducibility work evaluates how look-ahead decoding priors behave under stress tests in generative retrieval.
 
-[[DOI]](https://doi.org/10.1145/3805712.3808567) [[arXiv]](https://arxiv.org/abs/2604.23396)
+[🔗 DOI](https://doi.org/10.1145/3805712.3808567) · [📚 arXiv](https://arxiv.org/abs/2604.23396)

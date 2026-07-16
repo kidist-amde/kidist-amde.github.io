@@ -14,4 +14,4 @@ citation: "Mekonnen, K. A., et al. (2025). &quot;Optimized Text Embedding Models
 
 This work develops optimized text embedding models and benchmark resources for Amharic passage retrieval.
 
-[[Anthology]](https://aclanthology.org/2025.findings-acl.543/) [[DOI]](https://doi.org/10.18653/v1/2025.findings-acl.543) [[PDF]](https://aclanthology.org/2025.findings-acl.543.pdf) [[Poster]](/files/teaching/Amharic_Passage_Retrieval_posters.pdf)
+[📄 Anthology](https://aclanthology.org/2025.findings-acl.543/) · [🔗 DOI](https://doi.org/10.18653/v1/2025.findings-acl.543) · [⬇️ PDF](https://aclanthology.org/2025.findings-acl.543.pdf) · [🖼️ Poster](/files/teaching/Amharic_Passage_Retrieval_posters.pdf)

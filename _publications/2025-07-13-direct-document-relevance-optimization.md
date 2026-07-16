@@ -12,4 +12,4 @@ citation: "Mekonnen, K. A., et al. (2025). &quot;Lightweight and Direct Document
 
 This paper introduces a lightweight and direct approach for optimizing document relevance in generative information retrieval.
 
-[[Paper]](https://dl.acm.org/doi/10.1145/3726302.3730023) [[Slides]](/files/teaching/LDDRO-SIGIR-2025-uploaded-padova-1-21.pdf)
+[📄 Paper](https://dl.acm.org/doi/10.1145/3726302.3730023) · <a href="/files/teaching/LDDRO-SIGIR-2025-uploaded-padova-1-21.pdf"><img src="/files/teaching/vecteezy_google-slides-icon_17396796.png" alt="" width="16" height="16" style="vertical-align: text-bottom;"> Slides</a>

@@ -13,4 +13,4 @@ citation: "Lupart, S., <strong><em>Mekonnen, K.</em></strong>, Abbasiantaeb, Z.,
 
 This paper presents a multi-turn retrieval-augmented generation pipeline combining learned sparse retrieval with conversational query rewriting, listwise reranking, and answer generation conditioned on the full conversation history.
 
-[[Anthology]](https://aclanthology.org/2026.semeval-1.373/) [[DOI]](https://doi.org/10.18653/v1/2026.semeval-1.373) [[PDF]](https://aclanthology.org/2026.semeval-1.373.pdf)
+[📄 Anthology](https://aclanthology.org/2026.semeval-1.373/) · [🔗 DOI](https://doi.org/10.18653/v1/2026.semeval-1.373) · [⬇️ PDF](https://aclanthology.org/2026.semeval-1.373.pdf)
