@@ -1,25 +1,42 @@
 ---
+
 permalink: /
 title: "Kidist Amde Mekonnen"
-description: "Kidist Amde Mekonnen is an ELLIS PhD researcher in the Information Retrieval Lab at the University of Amsterdam, working on generative retrieval, neural information retrieval, recommender systems, multilingual retrieval, and continual learning for retrieval systems."
+description: "Kidist Amde Mekonnen is an ELLIS PhD researcher at the University of Amsterdam working on generative information retrieval, continual retrieval, robust decoding, multilingual retrieval, and generative recommendation."
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+
+* /about/
+* /about.html
+
 ---
 
-I am a third-year ELLIS PhD researcher in the [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, where I work with Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) as my promotor and Dr. [Andrew Yates](https://andrewyates.net/) as my co-promotor.
+I am an ELLIS PhD researcher in the [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and Dr. [Andrew Yates](https://andrewyates.net/).
 
-My research focuses on generative retrieval, recommendation, neural information retrieval, multilingual retrieval, retrieval-augmented generation, and scalable retrieval systems. I study how retrieval systems can represent, generate, rank, and adapt to information needs across languages and domains. My work connects generative information retrieval with efficient learning objectives, continual memory, robust decoding, and evaluation for real-world retrieval settings.
+My research asks how retrieval systems can move beyond selecting from a fixed index and instead **learn, generate, and update representations of documents and items**. I work primarily on generative retrieval and recommendation, focusing on document-level relevance optimization, continual adaptation to evolving collections, robust decoding, and scalable identifier learning.
+
+I am particularly interested in where generative retrieval systems fail: when relevant documents are lost during decoding, when adding new information degrades previously learned knowledge, and when retrieval effectiveness drops across languages or domains. My work combines model design, learning objectives, decoding algorithms, and rigorous evaluation to build retrieval systems that are more reliable, efficient, and adaptable across large, evolving, and multilingual collections.
 
 ### 🔍 Research Interests
+
 * Generative information retrieval
-* Neural information retrieval and recommender systems
-* Multilingual and low-resource retrieval
-* Continual learning for retrieval systems
+* Document-level relevance optimization and learning to rank
+* Continual retrieval over evolving collections
 * Robust decoding and evaluation for generative retrieval
-* Retrieval-augmented generation and scalable retrieval systems
-* Broader interests in generative modeling, multimodal learning, and reinforcement learning
+* Generative recommendation and semantic identifier learning
+* Multilingual and low-resource neural retrieval
+<!-- * Scalable retrieval and representation learning
+* Conversational retrieval and retrieval-augmented generation -->
+
+### 💡 Research Highlights
+
+* **Document-level relevance optimization:** designing lightweight learning objectives that directly align generative retrieval models with document-level relevance.
+* **Continual generative retrieval:** developing parametric-memory mechanisms that allow retrieval models to incorporate new documents while preserving previously learned knowledge.
+* **Decoding and robustness:** studying how constrained generation and look-ahead guidance affect recall, and identifying when relevant documents are lost under query variation and cross-lingual shift.
+* **Multilingual and low-resource retrieval:** developing retrieval models and benchmarks for Amharic and investigating the limitations of zero-shot multilingual retrieval for underrepresented languages.
+* **Generative recommendation and identifier learning:** exploring semantic and multimodal item identifiers, constrained generation, and scalable ID representation learning for recommendation.
+* **Retrieval-augmented systems:** contributing to multi-turn retrieval pipelines that combine learned sparse retrieval, query reformulation, listwise reranking, and generation.
+
 
 
 ### 📝 Selected Publications
