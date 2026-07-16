@@ -1,8 +1,9 @@
 ---
 title: "Academic Service"
+description: "Academic reviewing and professional service by Kidist Amde Mekonnen in information retrieval, machine learning, and natural language processing."
 collection: teaching
 type: "Service"
-permalink: /teaching/academic-service
+permalink: /teaching/academic-service/
 venue: "Information retrieval, machine learning, and NLP communities"
 date: 2026-01-01
 location: "International"

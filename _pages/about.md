@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an ELLIS PhD researcher in the [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and Dr. [Andrew Yates](https://andrewyates.net/).
+I am an ELLIS PhD researcher in the [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/), with Dr. [Andrew Yates](https://andrewyates.net/) as my co-promoter.
 
 My research asks how retrieval systems can move beyond selecting from a fixed index and instead **learn, generate, and update representations of documents and items**. I work primarily on generative retrieval and recommendation, focusing on document-level relevance optimization, continual adaptation to evolving collections, robust decoding, and scalable identifier learning.
 
