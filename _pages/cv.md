@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF CV](/files/CV_Kidist_Amde_Mekonnen_2026_meta.pdf)
+[Open latest PDF CV](/files/CV_Kidist_Amde_Mekonnen_2026.pdf)
 
 Education
 ======

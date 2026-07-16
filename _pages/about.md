@@ -34,15 +34,15 @@ The 49th International ACM SIGIR Conference on Research and Development in Infor
 The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
 ***Kidist Amde Mekonnen***, Yongkang Li, Yubao Tang, Simon Lupart, and Maarten de Rijke
 
-[![ACL MeLLM 2026](https://img.shields.io/badge/ACL%20MeLLM-2026-purple?style=flat-square)](https://arxiv.org/abs/2605.24556)
-**The Multilingual Curse at the Retrieval Layer: Evidence from Amharic** [[arXiv]](https://arxiv.org/abs/2605.24556) [[PDF]](https://arxiv.org/pdf/2605.24556)  
+[![ACL MeLLM 2026](https://img.shields.io/badge/ACL%20MeLLM-2026-purple?style=flat-square)](https://aclanthology.org/2026.mellm-1.19/)
+**The Multilingual Curse at the Retrieval Layer: Evidence from Amharic** [[arXiv]](https://arxiv.org/abs/2605.24556) [[PDF]](https://aclanthology.org/2026.mellm-1.19/)  
 The 1st Workshop on Multilinguality in the Era of Large Language Models, ACL 2026  
 Yosef Worku Alemneh<sup>†</sup>, ***Kidist Amde Mekonnen***<sup>†</sup>, and Maarten de Rijke  
 <sup>†</sup>Equal contribution
 
 
-[![ACL SemEval 2026](https://img.shields.io/badge/ACL%20SemEval-2026-orange?style=flat-square)](https://arxiv.org/abs/2606.11945)
-**uva-irlab-conv at SemEval-2026 Task 8: Multi-Turn RAG with Learned Sparse Retrieval and Listwise Reranking** [[arXiv]](https://arxiv.org/abs/2606.11945) [[PDF]](https://arxiv.org/pdf/2606.11945)  
+[![ACL SemEval 2026](https://img.shields.io/badge/ACL%20SemEval-2026-orange?style=flat-square)](https://aclanthology.org/2026.semeval-1.373/)
+**uva-irlab-conv at SemEval-2026 Task 8: Multi-Turn RAG with Learned Sparse Retrieval and Listwise Reranking** [[Paper]](https://aclanthology.org/2026.semeval-1.373/) [[PDF]](https://aclanthology.org/2026.semeval-1.373.pdf)  
 The 20th International Workshop on Semantic Evaluation, ACL 2026  
 Simon Lupart, **_Kidist Amde Mekonnen_**, Zahra Abbasiantaeb, and Mohammad Aliannejadi
 
@@ -89,7 +89,7 @@ Findings of the Association for Computational Linguistics
 * Hackathon mentor and organizer support, [European Summer School on Information Retrieval, ESSIR 2024](https://2024.essir.eu/organization)
 * Mentor, [MeetMentors](https://www.meetmentors.org/kidist-amde)
 * Core Team Volunteer, [Women in AI & Robotics](https://www.womeninairobotics.de/), Sep. 2021–Apr. 2022
-* Reviewer for major information retrieval and machine learning venues, including **NeurIPS 2026**, **SIGIR 2026** across multiple tracks, and **ECIR 2025**; received **ECIR best reviewer recognition**. [[Certificate]](files/certificates/ecir-2025-best-reviewer.png)
+* Reviewer for major information retrieval and machine learning venues, including **NeurIPS 2026**, **SIGIR 2026** across multiple tracks, and **ECIR 2025**; received **ECIR best reviewer recognition**. [[Certificate]](/files/certificates/ecir-2025-best-reviewer.png)
 
 
 <!-- ### 📬 Contact

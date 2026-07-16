@@ -10,4 +10,4 @@ location: "International"
 
 Reviewer for major information retrieval and machine learning venues, including NeurIPS 2026, SIGIR 2026 across multiple tracks, and ECIR 2025. Received ECIR best reviewer recognition.
 
-[[Certificate]](files/certificates/ecir-2025-best-reviewer.png)
+[[Certificate]](/files/certificates/ecir-2025-best-reviewer.png)
