@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+description: "Curriculum vitae of Kidist Amde Mekonnen, ELLIS PhD researcher in information retrieval at the University of Amsterdam."
 permalink: /cv/
 author_profile: true
 redirect_from:

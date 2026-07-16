@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "Teaching & Service"
+description: "Teaching, thesis supervision, mentoring, outreach, and academic service by Kidist Amde Mekonnen."
 permalink: /teaching/
 author_profile: true
 ---
-
-## Teaching & Service
 
 My teaching experience includes independent undergraduate course instruction, graduate and undergraduate teaching assistance, thesis supervision, research project mentoring, and educational outreach.
 

@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Kidist Amde Mekonnen"
+seo_title: "Kidist Amde Mekonnen | ELLIS PhD Researcher in Information Retrieval"
 description: "Kidist Amde Mekonnen is an ELLIS PhD researcher at the University of Amsterdam working on generative information retrieval, continual retrieval, robust decoding, multilingual retrieval, and generative recommendation."
 author_profile: true
 redirect_from:

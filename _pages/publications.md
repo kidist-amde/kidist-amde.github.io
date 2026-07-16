@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+description: "Publications by Kidist Amde Mekonnen in generative information retrieval, neural retrieval, recommender systems, and multilingual retrieval."
 permalink: /publications/
 author_profile: true
 ---
