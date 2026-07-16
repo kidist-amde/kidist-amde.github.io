@@ -83,12 +83,12 @@ Findings of the Association for Computational Linguistics
 [![arXiv 2023](https://img.shields.io/badge/arXiv-2023-b31b1b?style=flat-square)](https://arxiv.org/abs/2308.03495)
 **Balanced Face Dataset: Guiding StyleGAN for Labeled Synthetic Face Image Dataset for Underrepresented Group** [[Paper]](https://arxiv.org/abs/2308.03495)
 
-### 💡 Research Highlights
+<!-- ### 💡 Research Highlights
 * **Continual generative retrieval:** developing parametric-memory approaches that allow generative retrieval systems to update and retain document knowledge over time.
 * **Decoding and robustness:** reproducing and stress-testing look-ahead decoding priors to understand when generative retrieval gains are reliable under query variation and cross-lingual shift.
 * **Direct relevance optimization:** designing lightweight objectives for improving document relevance in generative information retrieval.
 * **Multilingual and low-resource retrieval:** studying retrieval-layer failures in multilingual systems, with evidence from Amharic retrieval benchmarks, optimized text embeddings, and MeLLM 2026 work on the multilingual curse.
-* **Recommendation and RAG:** exploring generative recommendation, semantic identifiers, trie-constrained generation, and retrieval-augmented systems.
+* **Recommendation and RAG:** exploring generative recommendation, semantic identifiers, trie-constrained generation, and retrieval-augmented systems. -->
 
 ### 🎓 Education and Experience
 * *2023–Present*, ELLIS PhD Researcher, University of Amsterdam, The Netherlands
