@@ -1,0 +1,17 @@
+/* ==========================================================================
+   Shared theme settings
+   ========================================================================== */
+
+/*
+ * Theme colors are exposed as custom properties so a mode change can update
+ * the whole page without loading another stylesheet. Structural variables
+ * remain in _variables.scss to preserve this site's custom typography/layout.
+ */
+
+:root {
+  color-scheme: light;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+}

@@ -3,6 +3,26 @@
    ========================================================================== */
 
 $(document).ready(function(){
+  // Follow the system preference until the visitor explicitly chooses a mode.
+  AcademicPagesTheme.set(AcademicPagesTheme.current());
+  if (AcademicPagesTheme.mediaQuery) {
+    if (AcademicPagesTheme.mediaQuery.addEventListener) {
+      AcademicPagesTheme.mediaQuery.addEventListener('change', AcademicPagesTheme.followSystem);
+    } else if (AcademicPagesTheme.mediaQuery.addListener) {
+      AcademicPagesTheme.mediaQuery.addListener(AcademicPagesTheme.followSystem);
+    }
+  }
+
+  $('#theme-toggle').on('click', function (event) {
+    event.preventDefault();
+    AcademicPagesTheme.toggle();
+  }).on('keydown', function (event) {
+    if (event.key === 'Enter' || event.key === ' ') {
+      event.preventDefault();
+      AcademicPagesTheme.toggle();
+    }
+  });
+
   // Sticky footer
   var bumpIt = function() {
       $("body").css("margin-bottom", $(".page__footer").outerHeight(true));

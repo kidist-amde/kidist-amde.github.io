@@ -11,6 +11,7 @@
  */
 
 @mixin notice($notice-color) {
+  color: var(--global-code-text-color);
   margin: 2em 0 !important;  /* override*/
   padding: 1em;
   font-family: $global-font-family;
