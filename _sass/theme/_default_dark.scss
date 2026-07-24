@@ -1,0 +1,22 @@
+/* ==========================================================================
+   Default theme — dark mode
+   ========================================================================== */
+
+html[data-theme="dark"] {
+  --global-base-color: #0ea1c5;
+  --global-bg-color: #474747;
+  --global-footer-bg-color: #474747;
+  --global-border-color: #bdc1c4;
+  --global-dark-border-color: #dbdada;
+  --global-code-background-color: #fafafa;
+  --global-code-text-color: #343434;
+  --global-fig-caption-color: #bdc1c4;
+  --global-link-color: #0ea1c5;
+  --global-link-color-hover: #0b7994;
+  --global-link-color-visited: #4aa9c0;
+  --global-masthead-link-color: #fff;
+  --global-masthead-link-color-hover: #0ea1c5;
+  --global-text-color: #fff;
+  --global-text-color-light: #f3f3f3;
+  --global-thead-color: #ededed;
+}

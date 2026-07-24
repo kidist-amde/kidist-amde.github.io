@@ -13,6 +13,26 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+
+  // Resolve the theme before CSS loads to prevent a light flash in dark mode.
+  (function () {
+    var savedTheme = null;
+    try {
+      savedTheme = localStorage.getItem('theme');
+    } catch (error) {
+      // Storage can be unavailable in privacy-restricted browsing contexts.
+    }
+
+    var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var theme = savedTheme === 'dark' || savedTheme === 'light'
+      ? savedTheme
+      : (prefersDark ? 'dark' : 'light');
+
+    if (theme === 'dark') {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+    document.documentElement.style.colorScheme = theme;
+  }());
 </script>
 
 <!-- For all browsers -->
