@@ -66,6 +66,6 @@ Supervising a thesis comparing lexical, dense, and hybrid retrieval methods acro
 
 Reviewer for information retrieval and machine learning venues, including **NeurIPS 2026**, multiple tracks at **SIGIR 2026**, and **ECIR 2025**.
 
-Served as a **Low Resource Environments Shepherd at SIGIR 2026**. [[Certificate]](/files/certificates/Scanned%20Document%2031-07-2026%20at%2015.14.19.pdf)
+🌟 Served as a **Low Resource Environments Shepherd at SIGIR 2026**. [[Certificate]](/files/certificates/Scanned%20Document%2031-07-2026%20at%2015.14.19.pdf)
 
 🌟 Recognized as a **Best Reviewer at ECIR 2025**. [[Certificate]](/files/certificates/ecir-2025-best-reviewer.png)
