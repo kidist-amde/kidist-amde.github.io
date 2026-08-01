@@ -11,12 +11,12 @@ author_profile: true
 {% endif %}
 
 [![SIGIR 2026](https://img.shields.io/badge/SIGIR-2026-blue?style=flat-square)](https://doi.org/10.1145/3805712.3809725)
-[**A Parametric Memory Head for Continual Generative Retrieval**](/publication/2026-07-13-parametric-memory-head) [🔗 DOI](https://doi.org/10.1145/3805712.3809725) (*Full Paper*)
+[**A Parametric Memory Head for Continual Generative Retrieval**](/publication/2026-07-13-parametric-memory-head) [🔗 DOI](https://doi.org/10.1145/3805712.3809725) · <a href="/files/teaching/PMH-SIGIR-2026%20%20copy.pdf"><img src="/files/teaching/vecteezy_google-slides-icon_17396796.png" alt="" width="16" height="16" style="vertical-align: text-bottom;"> Slides</a> (*Full Paper*)
 The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
 ***Kidist Amde Mekonnen***, Yubao Tang, and Maarten de Rijke
 
 [![SIGIR 2026](https://img.shields.io/badge/SIGIR-2026-blue?style=flat-square)](https://doi.org/10.1145/3805712.3808567)
-[**Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval**](/publication/2026-07-13-look-ahead-prior) [🔗 DOI](https://doi.org/10.1145/3805712.3808567) · [📚 arXiv](https://arxiv.org/abs/2604.23396) (*Reproducibility Track*)
+[**Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval**](/publication/2026-07-13-look-ahead-prior) [🔗 DOI](https://doi.org/10.1145/3805712.3808567) · [📚 arXiv](https://arxiv.org/abs/2604.23396) · <a href="/files/teaching/PAG-REPR%20SIGIR%202026%20copy.pdf"><img src="/files/teaching/vecteezy_google-slides-icon_17396796.png" alt="" width="16" height="16" style="vertical-align: text-bottom;"> Slides</a> (*Reproducibility Track*)
 The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
 ***Kidist Amde Mekonnen***, Yongkang Li, Yubao Tang, Simon Lupart, and Maarten de Rijke
 
